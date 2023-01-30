@@ -1,4 +1,4 @@
-baseURL = 'http://americio-hoag.github.io/blog'
+baseURL = 'https://mediocredev.github.io/blog/'
 languageCode = 'en-us'
 title = "Mei Mei's Lair"
 theme = "beautifulhugo"
